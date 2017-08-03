@@ -1,6 +1,6 @@
-[submodule "c-service1"]
-	path = c-service1
-	url = ../c-service1
 [submodule "c-service2"]
 	path = c-service2
-	url = ../c-service2
+	url = git@github.com:tajh/c-service2.git
+[submodule "c-service1"]
+	path = c-service1
+	url = git@github.com:tajh/c-service1.git
