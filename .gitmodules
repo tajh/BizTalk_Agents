@@ -1,0 +1,6 @@
+[submodule "c-service1"]
+	path = c-service1
+	url = ../c-service1
+[submodule "c-service2"]
+	path = c-service2
+	url = ../c-service2
